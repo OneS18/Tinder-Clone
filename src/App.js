@@ -9,9 +9,7 @@ function App() {
     //BEM class naming convention
     <div className='app'>
       <Header />
-
       <TinderCards />
-
       <SwipeButtons />
     </div>
   );
